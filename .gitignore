@@ -2,3 +2,6 @@ __pycache__/
 .vscode/
 generated/
 jar/
+
+openapi-json/*
+!openapi-json/readme.md
